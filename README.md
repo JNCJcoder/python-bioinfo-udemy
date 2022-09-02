@@ -4,8 +4,8 @@
   <br>
 </h1>
 
-<h4 align="center">Projeto realizado durante o curso "Introdução à Programação para Bioinformática com Python" da Alfahelix Treinamentos na Udemy.</h4>
-</br>
+<h4 align="center">Projeto realizado durante o curso "<a href="https://www.udemy.com/course/python_para_bioinformatica">Introdução à Programação para Bioinformática com Python</a>" da Alfahelix Treinamentos na Udemy.</h4>
+</br> 
 
 ## 📝 Tudo que Aprendi
 
